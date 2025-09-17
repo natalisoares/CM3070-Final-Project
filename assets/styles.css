@@ -1,0 +1,96 @@
+/* Base font and structure */
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Title styling */
+.main-title {
+    text-align: center;
+    font-size: 2.2rem;
+    font-weight: bold;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.main-sub {
+    text-align: center;
+    color: #666;
+    font-size: 1rem;
+    margin-bottom: 2rem;
+}
+
+/* Upload and button spacing */
+[data-testid="stFileUploader"] {
+    margin-bottom: 1rem;
+}
+
+button[kind="primary"],
+button[data-testid="baseButton"] {
+    margin-top: 0.5rem;
+    margin-bottom: 1.5rem;
+    margin-left: 0 !important;
+}
+
+/* PDF preview */
+img {
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+}
+
+/* Tab layout */
+.stTabs [role="tablist"] {
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.stTabs [role="tab"] {
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    border-radius: 6px 6px 0 0;
+    background: #f7f7f7;
+    border: 1px solid #ddd;
+    border-bottom: none;
+    cursor: pointer;
+}
+
+.stTabs [role="tab"][aria-selected="true"] {
+    background: white;
+    border-color: #ccc;
+    border-bottom: 1px solid white;
+}
+
+/* Scrollable panel */
+.stTabs [role="tabpanel"] {
+    height: 720px;
+    overflow-y: auto;
+    padding: 1rem 0.5rem;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 0 6px 6px 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    font-size: 0.9rem;
+    line-height: 1.5;
+}
+
+/* Column spacing */
+div[data-testid="column"] {
+    padding-left: 0.5rem !important;
+    padding-right: 0.5rem !important;
+}
+
+/* Spacing for outputs */
+.stMarkdown {
+    font-size: 0.9rem;
+    line-height: 1.4;
+}
+
+.stMarkdown ul {
+    margin-bottom: 0;
+}
+
+.stMarkdown li {
+    margin-bottom: 0.2rem;
+}

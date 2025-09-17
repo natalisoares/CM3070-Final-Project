@@ -1,0 +1,37 @@
+{
+    "Computer Science": [
+        "Algorithms and Data Structures",
+        "Artificial Intelligence and Machine Learning",
+        "Computer Systems and Architecture",
+        "Human-Computer Interaction",
+        "Software Engineering Principles"
+    ],
+    "Software Engineering": [
+        "Software Development Processes",
+        "Software Design and Architecture",
+        "Software Testing and Quality Assurance",
+        "Requirements Engineering",
+        "Project Management"
+    ],
+    "Information Systems": [
+        "Enterprise Systems",
+        "Decision Support Systems",
+        "Knowledge Management",
+        "Information Security",
+        "E-Government and E-Commerce"
+    ],
+    "Information Technology": [
+        "Network and Infrastructure",
+        "Cybersecurity",
+        "IT Service Management",
+        "Data Management",
+        "User Support"
+    ],
+    "Computer Engineering": [
+        "Hardware Systems",
+        "Computer Architecture",
+        "Digital Systems Design",
+        "Signal Processing",
+        "Cyber-Physical Systems"
+    ]
+}

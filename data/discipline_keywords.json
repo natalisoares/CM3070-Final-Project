@@ -1,0 +1,312 @@
+{
+    "Computer Science": {
+        "Algorithms and Data Structures": [
+            "algorithm",
+            "data structure",
+            "graph",
+            "tree",
+            "heap",
+            "sorting",
+            "searching",
+            "complexity",
+            "recursion",
+            "hashing"
+        ],
+        "Artificial Intelligence and Machine Learning": [
+            "machine learning",
+            "deep learning",
+            "neural network",
+            "supervised",
+            "unsupervised",
+            "reinforcement learning",
+            "AI",
+            "classification",
+            "prediction",
+            "regression"
+        ],
+        "Computer Systems and Architecture": [
+            "operating system",
+            "kernel",
+            "process",
+            "memory",
+            "cpu",
+            "thread",
+            "architecture",
+            "cache",
+            "multicore",
+            "interrupt"
+        ],
+        "Human-Computer Interaction": [
+            "user interface",
+            "usability",
+            "HCI",
+            "interaction",
+            "user experience",
+            "UX",
+            "design",
+            "cognitive",
+            "feedback",
+            "accessibility"
+        ],
+        "Software Engineering Principles": [
+            "software development",
+            "design pattern",
+            "architecture",
+            "refactoring",
+            "agile",
+            "scrum",
+            "version control",
+            "testing",
+            "modularity",
+            "code quality"
+        ]
+    },
+    "Software Engineering": {
+        "Software Development Processes": [
+            "agile",
+            "scrum",
+            "waterfall",
+            "lifecycle",
+            "iteration",
+            "process model",
+            "CI/CD",
+            "devops",
+            "release",
+            "deployment"
+        ],
+        "Software Design and Architecture": [
+            "architecture",
+            "design pattern",
+            "modularity",
+            "system design",
+            "layered",
+            "MVC",
+            "abstraction",
+            "component",
+            "interface",
+            "reuse"
+        ],
+        "Software Testing and Quality Assurance": [
+            "testing",
+            "unit test",
+            "integration test",
+            "test case",
+            "test suite",
+            "coverage",
+            "assertion",
+            "bug",
+            "defect",
+            "QA"
+        ],
+        "Requirements Engineering": [
+            "requirement",
+            "elicitation",
+            "stakeholder",
+            "user story",
+            "specification",
+            "goal modeling",
+            "validation",
+            "traceability",
+            "analysis",
+            "needs"
+        ],
+        "Project Management": [
+            "project",
+            "planning",
+            "scheduling",
+            "cost estimation",
+            "milestone",
+            "risk management",
+            "Gantt",
+            "team",
+            "roles",
+            "budget"
+        ]
+    },
+    "Information Systems": {
+        "Enterprise Systems": [
+            "ERP",
+            "CRM",
+            "enterprise",
+            "integration",
+            "SAP",
+            "system deployment",
+            "workflow",
+            "enterprise application",
+            "business logic",
+            "intranet"
+        ],
+        "Decision Support Systems": [
+            "DSS",
+            "decision making",
+            "analytics",
+            "data warehouse",
+            "BI",
+            "what-if",
+            "dashboards",
+            "support tool",
+            "modelling",
+            "simulation"
+        ],
+        "Knowledge Management": [
+            "knowledge sharing",
+            "repository",
+            "ontology",
+            "knowledge base",
+            "tacit knowledge",
+            "expert system",
+            "semantic",
+            "taxonomy",
+            "knowledge transfer",
+            "capture"
+        ],
+        "Information Security": [
+            "access control",
+            "encryption",
+            "security",
+            "authentication",
+            "cybersecurity",
+            "firewall",
+            "data breach",
+            "confidentiality",
+            "risk",
+            "compliance"
+        ],
+        "E-Government and E-Commerce": [
+            "e-government",
+            "e-service",
+            "e-commerce",
+            "transaction",
+            "digital platform",
+            "public service",
+            "online portal",
+            "citizen",
+            "service quality",
+            "B2C"
+        ]
+    },
+    "Information Technology": {
+        "Network and Infrastructure": [
+            "network",
+            "server",
+            "router",
+            "infrastructure",
+            "LAN",
+            "WAN",
+            "firewall",
+            "switch",
+            "IP address",
+            "protocol"
+        ],
+        "Cybersecurity": [
+            "malware",
+            "vulnerability",
+            "intrusion detection",
+            "zero trust",
+            "TLS",
+            "phishing",
+            "cyber attack",
+            "penetration",
+            "incident",
+            "threat"
+        ],
+        "IT Service Management": [
+            "ITIL",
+            "helpdesk",
+            "ticketing",
+            "support",
+            "service delivery",
+            "SLA",
+            "incident",
+            "configuration",
+            "availability",
+            "uptime"
+        ],
+        "Data Management": [
+            "database",
+            "data integrity",
+            "governance",
+            "ETL",
+            "data quality",
+            "metadata",
+            "data warehouse",
+            "big data",
+            "preprocessing",
+            "storage"
+        ],
+        "User Support": [
+            "help desk",
+            "technical support",
+            "user training",
+            "ticket",
+            "issue resolution",
+            "FAQ",
+            "call centre",
+            "troubleshoot",
+            "remote support",
+            "documentation"
+        ]
+    },
+    "Computer Engineering": {
+        "Hardware Systems": [
+            "hardware",
+            "microcontroller",
+            "microprocessor",
+            "circuit",
+            "GPIO",
+            "sensor",
+            "actuator",
+            "register",
+            "peripheral",
+            "driver"
+        ],
+        "Computer Architecture": [
+            "architecture",
+            "instruction set",
+            "pipeline",
+            "cache",
+            "ALU",
+            "control unit",
+            "memory hierarchy",
+            "fetch",
+            "decode",
+            "execute"
+        ],
+        "Digital Systems Design": [
+            "VHDL",
+            "Verilog",
+            "FPGA",
+            "logic gate",
+            "flip-flop",
+            "circuit design",
+            "state machine",
+            "clock",
+            "synchronous",
+            "combinational"
+        ],
+        "Signal Processing": [
+            "FFT",
+            "filter",
+            "signal",
+            "modulation",
+            "frequency",
+            "noise",
+            "DSP",
+            "audio",
+            "image",
+            "waveform"
+        ],
+        "Cyber-Physical Systems": [
+            "IoT",
+            "real-time",
+            "sensor",
+            "embedded",
+            "CPS",
+            "control",
+            "autonomous",
+            "robot",
+            "actuation",
+            "feedback loop"
+        ]
+    }
+}
